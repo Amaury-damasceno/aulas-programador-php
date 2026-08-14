@@ -18,7 +18,6 @@ var_dump($temTatuagem);
 
 
 
-
 $filme = "Vingadores - Guerre infinita";
 $genero = "ficção científica";
 $anoDeLancamento = 2018;
