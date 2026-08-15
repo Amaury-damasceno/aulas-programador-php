@@ -28,3 +28,5 @@ $sinopse = "O filme relata uma guerra interna no grupo de heróis: Vingadores, o
 echo "<h2>{$filme}</h2>";
 echo "<h3>O genero do filme é {$genero}, lançado nos cinemas no ano de {$anoDeLancamento}</h3>";
 echo "<p>{$sinopse}</p>";
+
+
