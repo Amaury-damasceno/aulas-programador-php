@@ -14,3 +14,14 @@ while ($pessoas > 0) {
     $pessoas--;
 }
 echo "<p>É a sua vez de ser atendido!</p>";
+
+
+echo "<h1>Atividade - 02</h1>";
+
+$limiteTotal = 20;
+$alunosNaSala = 0;
+$tentativas = 0;
+while ($limiteTotal >= 20) {
+echo "<p>Aluno numero: $limiteTotal excede a quantidade da sala.</p>";
+$limiteTotal--;
+}
