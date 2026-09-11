@@ -7,3 +7,6 @@ echo "<h1>Atividade:</h1>";
 var_dump(
     $_GET
 );
+
+$livroBuscado = $_GET["livro"];
+var_dump($livroBuscado);

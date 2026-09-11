@@ -9,5 +9,10 @@
 </head>
 <body>
 
+<form action="index_processar.php" method="GET">
+    <input type="text" name="busca" placeholder="Buscar egresso...">
+    <button type="submit">Busca</button>
+</form>
+
 </body>
 </html>
