@@ -48,6 +48,7 @@ if (!$email) {
     echo "<p>Informe um e-mail válido</p>";
 } else {
     echo "<p>Muito bem, isso é um e-mail</p>";
+    die;
 }
 
 
